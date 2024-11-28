@@ -1,0 +1,12 @@
+name: rustdemo
+version: '1.0-SNAPSHOT'
+main: org.fikrihunter11.rustdemo.RustDemo
+api-version: '1.21'
+commands:
+  building:
+    description: Gives the player a building plan to start building structures.
+    usage: /building
+permissions:
+  rustdemo.use:
+    description: Allows the use of the building plan.
+    default: true

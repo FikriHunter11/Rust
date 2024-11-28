@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rustdemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rustdemo_jar</output-path>
+    <root id="archive" name="rustdemo.jar">
+      <element id="module-output" name="rustdemo" />
+    </root>
+  </artifact>
+</component>
